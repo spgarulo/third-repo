@@ -6,4 +6,4 @@ Headers
 
 Just type some text to try this...
 
-> version 1
+> version 2
